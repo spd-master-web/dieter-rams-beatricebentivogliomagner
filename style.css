@@ -1,0 +1,36 @@
+html, body {
+
+}
+#logo {
+    width: 77px;
+    height: 71px;
+    align-items: center;
+}
+]
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #39b54a;
+    width: 1440 px;
+    height: 419 px;
+}
+
+ul, li {
+    display: inline-block;
+    list-style-type: none;
+   
+}
+
+#nav {
+    margin-top:34,95 px;
+    margin-left:1079,5 px;
+}
+
+#product-01 {
+    margin-top: 623 px;
+    margin-left: 680 px;
+    position: relative;
+
+}
